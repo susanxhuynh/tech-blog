@@ -4,7 +4,8 @@ title: Resources for Women in Tech
 published: true
 tags: women-in-tech
 ---
-##What Works for Women at Work, Joan C. Williams
+
+## What Works for Women at Work, Joan C. Williams
 General career advice is helpful, to a point. This book talks about how
 women are perceived at work, and strategies for women to navigate and
 succeed. TLDR, (most) women, especially women of color, have to walk a
